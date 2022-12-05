@@ -1,4 +1,5 @@
-# EasytechWebVulnAssessment
+# Easytech Web Vulnerability Assessment Software
+
 Vulnerability Assessment files for easytech software
 
 
