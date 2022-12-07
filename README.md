@@ -1,6 +1,6 @@
 # Easytech Web Vulnerability Assessment Software
 
-Vulnerability Assessment files for easytech software
+Vulnerability Assessment files for easytech software.
 Please move all files on desktop.
 
 
