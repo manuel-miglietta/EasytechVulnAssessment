@@ -1,0 +1,5 @@
+termcolor
+requests
+lxml
+python-utils
+python-util
