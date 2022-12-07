@@ -2,7 +2,8 @@
 
 EasytechVulnerabilityAssessment Software.
 Please move all files on desktop.
-Please use kali linux
+Please use kali linux.
+Delete me when the program is installed.
 
 # DISCLAIMER 
 No modifications of any kind from this repository are accepted.
