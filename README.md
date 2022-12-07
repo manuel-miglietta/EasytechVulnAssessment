@@ -1,8 +1,8 @@
-# Easytech Web Vulnerability Assessment Software
+# EasytechVulnerabilityAssessment Software
 
-Vulnerability Assessment files for easytech software.
+EasytechVulnerabilityAssessment Software.
 Please move all files on desktop.
-
+Please use kali linux
 
 # DISCLAIMER 
 No modifications of any kind from this repository are accepted.
