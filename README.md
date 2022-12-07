@@ -1,6 +1,6 @@
 # EasytechVulnerabilityAssessment Software
 
-EasytechVulnerabilityAssessment Software.
+EasytechVulnerabilityAssessment Software Files.
 Please use kali linux.
 Delete me when the program is installed.
 
