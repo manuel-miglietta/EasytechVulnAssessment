@@ -1,0 +1,6 @@
+termcolor
+requests
+lxml
+python_utils
+utils
+nmap
