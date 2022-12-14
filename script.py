@@ -4,7 +4,7 @@ import argparse
 from util import utils
 
 
-# AGRUMENTS
+# ARGUMENTS
 def arguments():
     parser = argparse.ArgumentParser(description = utils.banner())
     parser.add_argument('-f', '--nmap-file', action = 'store', dest = 'nmapfile',required = True, help = 'Nmap XML file')
